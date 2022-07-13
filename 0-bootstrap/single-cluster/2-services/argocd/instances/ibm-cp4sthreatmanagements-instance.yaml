@@ -30,7 +30,7 @@ spec:
       - name: spec.basicDeploymentConfiguration.domain
         value: dd17.cloudpaksecurity.com
       - name: spec.basicDeploymentConfiguration.adminUser
-        value: dgdruker@us.ibm.com
+        value: gerald.trotman@ibm.com
       - name: spec.basicDeploymentConfiguration.storageClass
         value: ibmc-vpc-block-10iops-tier
       - name: spec.extendedDeploymentConfiguration.airgapInstall
